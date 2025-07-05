@@ -35,7 +35,7 @@ This is a Java-based desktop application that allows an admin to manage employee
 ##  Author
 
  Developed by Bhanu Partap Singh. 
- [LinkedIn](www.linkedin.com/in/bhanu-partap-singh-817394373) 
+ [LinkedIn](https://www.linkedin.com/posts/bhanu-partap-singh-817394373_objective-project-tested-activity-7347263474927886336-Hsvy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxtTJMBhVtzOaGjHfMgkcy-T-xrHIvtnRc)
 
 ## Future Scope
 
