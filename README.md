@@ -1,4 +1,4 @@
-# EmployeeManagementSystem
+
 # Employee Management System (Java, Swing, JDBC, MySQL)
 
 ## Project Description
